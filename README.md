@@ -1,4 +1,4 @@
-# Wolfii
+# android-music-app
 
 <p align="center">
 <img src="README_files/logoWolfii.png" >
