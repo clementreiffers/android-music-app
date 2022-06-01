@@ -1,7 +1,8 @@
 # android-music-app
 
 <p align="center">
-<img src="README_files/logoWolfii.png" >
+<img src="README_files/logoWolfii.png"><br>
+logo of the app
 </p>
 
 ## Description
